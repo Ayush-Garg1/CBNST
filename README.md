@@ -1,2 +1,3 @@
-# Logic-Design
-Implementation of concepts of Logic Design
+# CBNST
+## Computer Based Statistical and Numerical Techniques
+5th sem
